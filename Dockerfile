@@ -2,7 +2,7 @@
 FROM ubuntu:latest
 
 # Informacje o utrzymaniu obrazu
-LABEL maintainer="brzezinski.dm@gmail.com"
+LABEL maintainer="dawid.brzezinski@hotmail.com"
 
 # Zaktualizowanie systemu i zainstalowanie pakietów
 RUN apt-get update && \
