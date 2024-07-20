@@ -1,7 +1,7 @@
 # Bazowy obraz Ubuntu
 FROM ubuntu:latest
 
-# Informacje o utrzymaniu obrazu
+# Informacje o twórcy obrazu
 LABEL maintainer="dawid.brzezinski@hotmail.com"
 
 # Zaktualizowanie systemu i zainstalowanie pakietów
